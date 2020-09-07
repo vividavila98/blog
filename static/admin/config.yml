@@ -1,5 +1,6 @@
 backend: 
-  name: test-repo
+  name: github
+  repo: vividavila98/blog
 
 media_folder: src/images
 public_folder: public
